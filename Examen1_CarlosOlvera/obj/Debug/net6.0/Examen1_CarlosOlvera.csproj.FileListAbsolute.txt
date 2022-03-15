@@ -1,0 +1,15 @@
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\bin\Debug\net6.0\Examen1_CarlosOlvera.exe
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\bin\Debug\net6.0\Examen1_CarlosOlvera.deps.json
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\bin\Debug\net6.0\Examen1_CarlosOlvera.runtimeconfig.json
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\bin\Debug\net6.0\Examen1_CarlosOlvera.dll
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\bin\Debug\net6.0\ref\Examen1_CarlosOlvera.dll
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\bin\Debug\net6.0\Examen1_CarlosOlvera.pdb
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\obj\Debug\net6.0\Examen1_CarlosOlvera.csproj.AssemblyReference.cache
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\obj\Debug\net6.0\Examen1_CarlosOlvera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\obj\Debug\net6.0\Examen1_CarlosOlvera.AssemblyInfoInputs.cache
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\obj\Debug\net6.0\Examen1_CarlosOlvera.AssemblyInfo.cs
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\obj\Debug\net6.0\Examen1_CarlosOlvera.csproj.CoreCompileInputs.cache
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\obj\Debug\net6.0\Examen1_CarlosOlvera.dll
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\obj\Debug\net6.0\ref\Examen1_CarlosOlvera.dll
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\obj\Debug\net6.0\Examen1_CarlosOlvera.pdb
+C:\Users\carlo\CODIGOFUENTE\Examen1\Examen1_CarlosOlvera\obj\Debug\net6.0\Examen1_CarlosOlvera.genruntimeconfig.cache
